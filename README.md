@@ -53,7 +53,7 @@ Metrik kriteri olarak AUC (area under receiver operating characteristic curve) d
 
 Get in Touch
 -
-If you want some help or want to give advice about the app etc. feel free to send a private email to me:
+If you want some help or want to give advice about the it etc. feel free to send a private email to me:
 
 • tml.alper@gmail.com
 
